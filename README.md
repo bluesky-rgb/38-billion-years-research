@@ -1,6 +1,6 @@
 # 38 亿年 · 研究笔记
 
-**网页：https://4jt8jty9sk-cpu.github.io/38-billion-years-research/**
+**网页：https://bluesky-rgb.github.io/38-billion-years-research/**
 
 我们对"你从哪里来"的理解，按主题整理成一条完整的因果链：从星云收缩成太阳，到生命起源、细胞、动物的身体、登上陆地，再到人与社会。
 
@@ -10,12 +10,12 @@
 
 | 页面 | 内容 |
 | --- | --- |
-| [首页](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/) | 两条主线（合作与信息）、七个章节、社会的本质 |
-| [章节](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/ch-earth.html) | 每章包括核心观点、因果链、关键事件、问与答、关键概念、尚无定论的地方、对应视频 |
-| [大时间轴](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/timeline.html) | 46 亿年关键事件，对数刻度 |
-| [问答](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/questions.html) | 制作中提出的全部问题与答案 |
-| [概念词典](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/glossary.html) | 全部概念，按章节归类，可搜索 |
-| [方法](https://4jt8jty9sk-cpu.github.io/38-billion-years-research/method.html) | 正向流程：前提、形成、变化、概念、影响、引出 |
+| [首页](https://bluesky-rgb.github.io/38-billion-years-research/) | 两条主线（合作与信息）、七个章节、社会的本质 |
+| [章节](https://bluesky-rgb.github.io/38-billion-years-research/ch-earth.html) | 每章包括核心观点、因果链、关键事件、问与答、关键概念、尚无定论的地方、对应视频 |
+| [大时间轴](https://bluesky-rgb.github.io/38-billion-years-research/timeline.html) | 46 亿年关键事件，对数刻度 |
+| [问答](https://bluesky-rgb.github.io/38-billion-years-research/questions.html) | 制作中提出的全部问题与答案 |
+| [概念词典](https://bluesky-rgb.github.io/38-billion-years-research/glossary.html) | 全部概念，按章节归类，可搜索 |
+| [方法](https://bluesky-rgb.github.io/38-billion-years-research/method.html) | 正向流程：前提、形成、变化、概念、影响、引出 |
 
 ## 七个章节
 
