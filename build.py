@@ -3,8 +3,8 @@ import json, os, html
 HERE = os.path.dirname(os.path.abspath(__file__))
 def J(n): return json.load(open(os.path.join(HERE, 'data', n), encoding='utf-8'))
 CH, TL, NOTES, EPS, METHOD, VIS = J('chapters.json'), J('timeline.json'), J('notes.json'), J('episodes.json'), J('method.json'), J('vision.json')
-VID = 'https://4jt8jty9sk-cpu.github.io/38-billion-years/site/'
-REPO_V = 'https://github.com/4jt8jty9sk-cpu/38-billion-years'
+VID = 'https://bluesky-rgb.github.io/38-billion-years/site/'
+REPO_V = 'https://github.com/bluesky-rgb/38-billion-years'
 REPO_R = 'https://github.com/bluesky-rgb/38-billion-years-research'
 e_ = html.escape
 NOTE = {n['id']: n for n in NOTES}
