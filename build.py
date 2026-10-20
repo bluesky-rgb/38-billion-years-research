@@ -82,7 +82,7 @@ X = lambda a: 40 + (math.log10(46) - math.log10(max(a, 0.0005))) / (math.log10(4
 svg = ['<svg viewBox="0 0 980 150" role="img" aria-label="对数时间轴：越接近今天，刻度越密"><rect x="40" y="70" width="900" height="5" rx="2" class="tl-bar"/>']
 for a, lab in ((46, '46 亿'), (10, '10 亿'), (1, '1 亿'), (0.1, '1000 万'), (0.01, '100 万'), (0.001, '10 万'), (0.0005, '5 万年前')):
     svg.append(f'<line x1="{X(a):.0f}" x2="{X(a):.0f}" y1="78" y2="88" class="tl-tick"/><text x="{X(a):.0f}" y="106" text-anchor="middle" class="tl-lab">{lab}</text>')
-cols = {'earth': 1, 'life': 2, 'cell': 3, 'planet': 4, 'body': 5, 'land': 6, 'human': 7}
+cols = {c['id']: c['n'] for c in CH}
 for t in TL:
     svg.append(f'<circle cx="{X(t["age"]):.1f}" cy="{58 - (cols[t["ch"]] % 3) * 12}" r="5" class="tl-done"/>')
 svg.append('</svg>')
