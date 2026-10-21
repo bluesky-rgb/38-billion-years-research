@@ -33,7 +33,7 @@ def vids(ids):
     for i in ids:
         e = EP.get(i)
         if not e: continue
-        s = ['第 0 季', '第 1 季', '第 2 季', '第 3 季'][e['season']]
+        s = ['第 0 季', '第 1 季', '第 2 季', '第 3 季', '第二部'][e['season']]
         out += f'<a href="{VID}ep{i:02d}.html"><img src="{VID}posters/ep{i}.jpg" alt="" loading="lazy"><span><b>{e_(e["title"])}</b><span>{s} · 第 {e["episode"]} 集 · 看视频</span></span></a>'
     return f'<div class="vids">{out}</div>' if out else '<p class="col">这一章对应的视频还在规划中。</p>'
 def fmt_age(a):
