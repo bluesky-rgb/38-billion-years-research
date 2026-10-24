@@ -9,7 +9,7 @@ REPO_R = 'https://github.com/bluesky-rgb/38-billion-years-research'
 e_ = html.escape
 NOTE = {n['id']: n for n in NOTES}
 EP = {e['id']: e for e in EPS}
-EP_CH = {1: 'earth', 2: 'earth', 3: 'life', 4: 'life', 5: 'life', 6: 'cell', 7: 'cell', 8: 'planet', 9: 'body', 10: 'body', 11: 'body', 12: 'body', 13: 'land', 14: 'land', 15: 'land', 16: 'mammal', 17: 'mammal', 18: 'mammal', 19: 'human', 20: 'human', 21: 'human', 22: 'human', 23: 'human', 24: 'human', 25: 'society', 26: 'society', 27: 'society'}
+EP_CH = {1: 'earth', 2: 'earth', 3: 'life', 4: 'life', 5: 'life', 6: 'cell', 7: 'cell', 8: 'planet', 9: 'body', 10: 'body', 11: 'body', 12: 'body', 13: 'land', 14: 'land', 15: 'land', 16: 'mammal', 17: 'mammal', 18: 'mammal', 19: 'human', 20: 'human', 21: 'human', 22: 'human', 23: 'human', 24: 'human', 25: 'society', 26: 'society', 27: 'society', 28: 'society'}
 CHD = {c['id']: c for c in CH}
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;900&family=Noto+Sans+SC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">'
 NAV = [('index.html', '首页'), ('ch-earth.html', '章节'), ('timeline.html', '大时间轴'), ('questions.html', '问答'), ('glossary.html', '概念词典'), ('method.html', '方法'), (VID, '视频系列'), (REPO_R, 'GitHub')]
