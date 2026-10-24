@@ -274,5 +274,17 @@
   "text": "哥贝克力石阵",
   "ch": "society",
   "ep": 25
+ },
+ {
+  "age": 9e-05,
+  "text": "加泰土丘",
+  "ch": "society",
+  "ep": 26
+ },
+ {
+  "age": 5e-05,
+  "text": "良渚古城",
+  "ch": "society",
+  "ep": 26
  }
 ]
